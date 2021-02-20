@@ -59,3 +59,16 @@ for i in range(0, 25):
 # Show our masterpiece
 cv2.imshow("Canvas", canvas)
 cv2.waitKey(0)
+
+
+# load the image of Adrian in Florida
+image = cv2.imread("florida_trip.png")
+# draw a circle around my face, two filled in circles covering my eyes, and
+# a rectangle surrounding my mouth
+cv2.circle(image, (168, 188), 90, (0, 0, 255), 2)
+cv2.circle(image, (150, 164), 10, (0, 0, 255), -1)
+cv2.circle(image, (192, 174), 10, (0, 0, 255), -1)
+cv2.rectangle(image, (134, 200), (186, 218), (0, 0, 255), -1)
+# show the output image
+cv2.imshow("Output", image)
+cv2.waitKey(0)
