@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f958b009-3ddb-4e91-9f8c-437f832f5e04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gurus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/color_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/equalize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grayscale_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/histogram_with_mask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_detector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort_contours.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort_contours.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1olizwdIGUlCQ1EWgOpSk1bew6w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,6 +30,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/conf" />
       <recent name="$PROJECT_DIR$/sunflowers/sunflower_testing" />
     </key>
   </component>
@@ -55,7 +45,7 @@
       <workItem from="1613867850180" duration="23000" />
       <workItem from="1615216517903" duration="11077000" />
       <workItem from="1615240039557" duration="1023000" />
-      <workItem from="1615241121278" duration="7789000" />
+      <workItem from="1615241121278" duration="13553000" />
     </task>
     <task id="LOCAL-00001" summary="commit canny">
       <created>1615225900802</created>
@@ -71,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1615239944970</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1616977820499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616977820499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1616989308628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616989308628</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1616990037430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616990037430</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit canny" />
     <MESSAGE value="commit more sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit more sections" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
